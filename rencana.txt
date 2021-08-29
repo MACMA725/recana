@@ -1,0 +1,5 @@
+RENCANA/TUJUAN KU
+- Ingin menjadi web development
+- Menguasai HTML, CSS, JAVASCRIPT
+- Menguasai Boostrap
+- Menguasai React
