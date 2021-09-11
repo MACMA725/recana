@@ -3,3 +3,4 @@ RENCANA/TUJUAN KU
 - Menguasai HTML, CSS, JAVASCRIPT
 - Menguasai Boostrap
 - Menguasai React
+- Menguasai PHP
